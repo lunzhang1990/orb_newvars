@@ -1,6 +1,0 @@
-/home/lz210/anaconda3/lib/python3.7/site-packages/scipy/optimize/minpack.py:162: RuntimeWarning: The iteration is not making good progress, as measured by the 
-  improvement from the last ten iterations.
-  warnings.warn(msg, RuntimeWarning)
-/home/lz210/anaconda3/lib/python3.7/site-packages/scipy/optimize/minpack.py:162: RuntimeWarning: The iteration is not making good progress, as measured by the 
-  improvement from the last five Jacobian evaluations.
-  warnings.warn(msg, RuntimeWarning)
